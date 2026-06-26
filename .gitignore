@@ -1,0 +1,17 @@
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+build/
+dist/
+
+# Generated files
+*.class
+*.jar
+
+# Temporary files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
